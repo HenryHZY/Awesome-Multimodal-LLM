@@ -79,6 +79,11 @@ Research Trends in `LLM-guided Multimodal` Learning.
 
   Backbone: LLaMA-7B and LLaMA-13B.
   
+- **VisualGLM-6B**. 
+
+  *ChatGLM Team.* [Paper] [[Code](https://github.com/THUDM/VisualGLM-6B)]
+
+  Backbone: ChatGLM-6B. 
 
 ## 2023 April
 
