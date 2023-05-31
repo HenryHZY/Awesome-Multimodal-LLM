@@ -85,6 +85,12 @@ Research Trends in `LLM-guided Multimodal` Learning.
 
   Backbone: ChatGLM-6B. 
 
+- **Generating Images with Multimodal Language Models**. arXiv:2305.17216.
+
+  *Jing Yu Koh, Daniel Fried, Ruslan Salakhutdinov.* [[Paper](https://arxiv.org/abs/2305.17216)] [Code]
+
+  Backbone: OPT-6.7B.
+
 ## 2023 April
 
 - **Visual Instruction Tuning**. arXiv:2304.08485.
