@@ -1,31 +1,20 @@
 # Awesome-Multimodal-LLM
 Research Trends in `LLM-guided Multimodal` Learning.
 
-- Multimodal:
-	- text, vision, audio, ... 
+- Multi Modalities:
+	- text, vision (image and video), audio, ... 
 - Large Language Model (LLM) Backbones:
-	- LLaMA, Alpaca, Vicuna, Bloom, GLM, ... 
-	- should be `open-source and research-friendly`
-	- can handle both `discriminative and generative` tasks
+	- LLaMA, Alpaca, Vicuna, Bloom, GLM, OPT, ... 
+	- LLM should be `open-source and research-friendly`
 	- relatively small backbones (e.g., BART and T5) are also OK
 - Learning Techniques:
-	- full fine-tuning
-	- parameter-efficient tuning (Adapter, LoRA, ... )
-	- in-context learning
-	- instruction tuning
+	- full fine-tuning, parameter-efficient tuning (Adapter, LoRA, ... )
+	- in-context learning, instruction tuning
 	- ... 
-- Examples of `LLM-guided Multimodal` Research Topics:
-	- OpenFlamingo
-	- MiniGPT-4
-	- Otter
-	- InstructBILP
-	- ...
-
-- Examples of `Evaluation` on Multimodal LLM:
-	- MultiInstruct
-	- POPE
-	- AttackVLM
-	- ...
+- Examples of `LLM-guided Multimodal Model` :
+	- OpenFlamingo, MiniGPT-4, Otter, InstructBILP, ...
+- Examples of `Evaluation on Multimodal LLM`:
+	- MultiInstruct, POPE, AttackVLM, ...
 
 ## 2023 May
 
@@ -54,12 +43,24 @@ Research Trends in `LLM-guided Multimodal` Learning.
 
   `Backbone`: based on OpenFlamingo-9B.
 
+- **X-LLM: Bootstrapping Advanced Large Language Models by Treating Multi-Modalities as Foreign Languages**. arXiv:2305.04160.
+
+  *Feilong Chen, Minglun Han, Haozhi Zhao, Qingyang Zhang, Jing Shi, Shuang Xu, Bo Xu.* [[Paper](https://arxiv.org/abs/2305.04160)] [[Code](https://github.com/phellonchen/X-LLM)]
+
+  `Backbone`: ChatGLM.
+
 - **MultiModal-GPT: A Vision and Language Model for Dialogue with Humans**. arXiv:2305.04790.
 
   *Tao Gong, Chengqi Lyu, Shilong Zhang, Yudong Wang, Miao Zheng, Qian Zhao, Kuikun Liu, Wenwei Zhang, Ping Luo, Kai Chen.* [[Paper](https://arxiv.org/abs/2305.04790)] [[Code](https://github.com/open-mmlab/Multimodal-GPT)]
 
-  `Backbone`: based on OpenFlamingo (LLaMA).
+  `Backbone`: based on OpenFlamingo.
 
+
+- **VideoChat: Chat-Centric Video Understanding**. arXiv:2305.06355.
+
+  *KunChang Li, Yinan He, Yi Wang, Yizhuo Li, Wenhai Wang, Ping Luo, Yali Wang, Limin Wang, Yu Qiao.* [[Paper](https://arxiv.org/abs/2305.06355)] [[Code](https://github.com/OpenGVLab/Ask-Anything)]
+
+  `Backbone`: based on MiniGPT-4, MOSS and StableLM.
 
 - **InstructBLIP: Towards General-purpose Vision-Language Models with Instruction Tuning**. arXiv:2305.06500.
 
@@ -149,6 +150,7 @@ Research Trends in `LLM-guided Multimodal` Learning.
   *Zhuosheng Zhang, Aston Zhang, Mu Li, Hai Zhao, George Karypis, Alex Smola.* [[Paper](https://arxiv.org/abs/2302.00923)] [[Code](https://github.com/amazon-science/mm-cot)]
 
   `Backbone`: T5 and FLAN-T5.
+
 
 - **Language Is Not All You Need: Aligning Perception with Language Models**. arXiv:2302.14045.
 
