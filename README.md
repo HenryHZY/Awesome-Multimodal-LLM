@@ -2,30 +2,30 @@
 Research Trends in `LLM-guided Multimodal` Learning.
 
 - Multimodal:
-	- text, vision, audio, $\ldots$ 
+	- text, vision, audio, ... 
 - Large Language Model (LLM) Backbones:
-	- LLaMA, Alpaca, Vicuna, Bloom, GLM, $\ldots$ 
+	- LLaMA, Alpaca, Vicuna, Bloom, GLM, ... 
 	- should be `open-source and research-friendly`
 	- can handle both `discriminative and generative` tasks
 	- relatively small backbones (e.g., BART and T5) are also OK
 - Learning Techniques:
 	- full fine-tuning
-	- parameter-efficient tuning (Adapter, LoRA, $\ldots$ )
+	- parameter-efficient tuning (Adapter, LoRA, ... )
 	- in-context learning
 	- instruction tuning
-	- $\ldots$ 
+	- ... 
 - Examples of `LLM-guided Multimodal` Research Topics:
 	- OpenFlamingo
 	- MiniGPT-4
 	- Otter
 	- InstructBILP
-	- $\ldots$
+	- ...
 
 - Examples of `Evaluation` on Multimodal LLM:
 	- MultiInstruct
-  - POPE
+	- POPE
 	- AttackVLM
-	- $\ldots$
+	- ...
 
 ## 2023 May
 
