@@ -236,6 +236,30 @@ Research Trends in `LLM-guided Multimodal` Learning.
 
 	`Backbone`: Transformer-7B.
 
+## Useful Links
+
+Currently, most multimodal LLM are Vision-and-Language.
+
+Vision-and-Language LLM = LLM backbone + Vision backbone.
+
+Here are some useful links for your reference:
+
+- https://github.com/eugeneyan/open-llms
+
+  LLM backbone list (especially open-source LLL).
+
+- https://github.com/bethgelab/model-vs-human
+
+  Vision backbone list (e.g., ViT-22B and ViT-L).
+
+- https://github.com/zhengzangw/awesome-huge-models
+
+  LLM & Vision backbone list.
+
+- https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models
+
+	Multimodal LLM Learning & Tools (e.g., Visual ChatGPT and HuggingGPT) & Dataset list.
+
 
 ## Contribution
 
