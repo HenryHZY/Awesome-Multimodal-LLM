@@ -266,7 +266,7 @@ Here are some useful links for your reference:
 
 - https://twitter.com/_akhaliq
 
-	Cutting-edge AI papers.
+	Research trends in AI with cutting-edge papers.
 
 
 ## Contribution
