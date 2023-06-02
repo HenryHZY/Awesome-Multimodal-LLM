@@ -246,7 +246,7 @@ Here are some useful links for your reference:
 
 - https://github.com/eugeneyan/open-llms
 
-  LLM backbone list (especially open-source LLL).
+  LLM backbone list (especially open-source LLM).
 
 - https://github.com/bethgelab/model-vs-human
 
@@ -256,9 +256,17 @@ Here are some useful links for your reference:
 
   LLM & Vision backbone list.
 
+- https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard
+
+	HuggingFace LLM leaderboard.
+
 - https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models
 
 	Multimodal LLM Learning & Tools (e.g., Visual ChatGPT and HuggingGPT) & Dataset list.
+
+- https://twitter.com/_akhaliq
+
+	Cutting-edge AI papers.
 
 
 ## Contribution
