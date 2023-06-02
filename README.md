@@ -139,11 +139,17 @@ Research Trends in `LLM-guided Multimodal` Learning.
 
 ## 2023 Jan. to Mar.
 
-- **BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models**. arXiv:2301.12597.z
+- **BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models**. arXiv:2301.12597.
 
   *Junnan Li, Dongxu Li, Silvio Savarese, Steven Hoi.* [[Paper](https://arxiv.org/abs/2301.12597)] [[Code](https://github.com/salesforce/LAVIS/tree/main/projects/blip2)]
 
   `Backbone`: OPT-2.7B, OPT-6.7B, FLAN-T5-XL and FLAN-T5-XXL.
+
+- **Grounding Language Models to Images for Multimodal Inputs and Outputs**. arXiv:2301.13823. ICML2023.
+
+  *Jing Yu Koh, Ruslan Salakhutdinov, Daniel Fried.* [[Paper](https://arxiv.org/abs/2301.13823)] [[Code](https://github.com/kohjingyu/fromage)]
+
+  `Backbone`: OPT-6.7B.
 
 - **Multimodal Chain-of-Thought Reasoning in Language Models**. arXiv:2302.00923.
 
