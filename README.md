@@ -16,6 +16,14 @@ Research Trends in `LLM-guided Multimodal` Learning.
 - Examples of `Evaluation on Multimodal LLM`:
 	- MultiInstruct, POPE, AttackVLM, ...
 
+## 2023 June
+
+- **LLaVA-Med: Training a Large Language-and-Vision Assistant for Biomedicine in One Day**. arXiv:2306.00890.
+
+  *Chunyuan Li, Cliff Wong, Sheng Zhang, Naoto Usuyama, Haotian Liu, Jianwei Yang, Tristan Naumann, Hoifung Poon, Jianfeng Gao.* [[Paper](https://arxiv.org/abs/2306.00890)] [[Code](https://github.com/microsoft/LLaVA-Med)]
+
+  `Backbone`: based on LLaVA (with Vicuna-13B).
+
 ## 2023 May
 
 - **Transfer Visual Prompt Generator across LLMs**. arXiv:2305.01278.
