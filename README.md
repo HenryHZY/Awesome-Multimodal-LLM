@@ -23,6 +23,13 @@ Research Trends in `LLM-guided Multimodal` Learning.
   *Chunyuan Li, Cliff Wong, Sheng Zhang, Naoto Usuyama, Haotian Liu, Jianwei Yang, Tristan Naumann, Hoifung Poon, Jianfeng Gao.* [[Paper](https://arxiv.org/abs/2306.00890)] [[Code](https://github.com/microsoft/LLaVA-Med)]
 
   `Backbone`: based on LLaVA (with Vicuna-13B).
+  
+- **Ziya-Visual**. 
+
+  *Jiaxing Zhang and Ruyi Gan and Junjie Wang and Yuxiang Zhang and Lin Zhang and Ping Yang and Xinyu Gao and Ziwei Wu and Xiaoqun Dong and Junqing He and Jianheng Zhuo and Qi Yang and Yongfeng Huang and Xiayu Li and Yanghan Wu and Junyu Lu and Xinyu Zhu and Weifeng Chen and Ting Han and Kunhao Pan and Rui Wang and Hao Wang and Xiaojun Wu and Zhongshen Zeng and Chongpei Chen.* [Paper] [[Code](https://huggingface.co/IDEA-CCNL/Ziya-BLIP2-14B-Visual-v1)]
+
+  `Backbone`: based on Ziya-LLaMA-13B-v1. 
+  
 
 ## 2023 May
 
