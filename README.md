@@ -29,7 +29,12 @@ Research Trends in `LLM-guided Multimodal` Learning.
   *Jiaxing Zhang and Ruyi Gan and Junjie Wang and Yuxiang Zhang and Lin Zhang and Ping Yang and Xinyu Gao and Ziwei Wu and Xiaoqun Dong and Junqing He and Jianheng Zhuo and Qi Yang and Yongfeng Huang and Xiayu Li and Yanghan Wu and Junyu Lu and Xinyu Zhu and Weifeng Chen and Ting Han and Kunhao Pan and Rui Wang and Hao Wang and Xiaojun Wu and Zhongshen Zeng and Chongpei Chen.* [Paper] [[Code](https://huggingface.co/IDEA-CCNL/Ziya-BLIP2-14B-Visual-v1)]
 
   `Backbone`: based on Ziya-LLaMA-13B-v1. 
-  
+
+- **Video-LLaMA: An Instruction-Finetuned Visual Language Model for Video Understanding**. arXiv:2306.02858.
+
+  *Zhang, Hang and Li, Xin and Bing, Lidong.* [[Paper](https://arxiv.org/abs/2306.02858)] [[Code](https://github.com/DAMO-NLP-SG/Video-LLaMA/tree/main)]
+
+  `Backbone`: Vicuna-7B and Vicuna-13B.
 
 ## 2023 May
 
@@ -39,11 +44,7 @@ Research Trends in `LLM-guided Multimodal` Learning.
 
   `Backbone`: OPT (125M, 350M, 1.3B, and 2.7B) and Flan-T5 (base, large, and XL).
 
-- **Video-LLaMA: An Instruction-Finetuned Visual Language Model for Video Understanding**.
 
-  *Zhang, Hang and Li, Xin and Bing, Lidong.* [Paper] [[Code](https://github.com/DAMO-NLP-SG/Video-LLaMA/tree/main)]
-
-  `Backbone`: Vicuna-7B and Vicuna-13B.
 
 
 - **LMEye: An Interactive Perception Network for Large Language Models**. arXiv:2305.03701.
