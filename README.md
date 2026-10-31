@@ -313,3 +313,5 @@ For any interesting news about LLM-guided multimodal learning on Twitter, you ca
 
 Hope everyone enjoy the LLM-guided future :)
 
+- [PromptImage](https://promptimage.cloud) - Free AI image & video studio with a prompt library (signup credits, multi-model). Freemium
+- [GrokVideo Studio](https://grokvideogenerator.dev) - Independent web app for text/image-to-video via Grok Imagine API (Free Trial, 20 credits). Not an official …
