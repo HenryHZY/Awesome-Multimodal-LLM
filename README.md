@@ -18,6 +18,12 @@ Research Trends in `LLM-guided Multimodal` Learning.
 
 ## 2026 October
 
+- **MJev-Spatial: System One Spatial Intelligence via Native Attention Matching**. arXiv:2610.22276.
+
+  *Luozheng Qin, Yuhan Zhu, Changhai Zhou, Qian Qiao, Jun Gao, Yuhua Zhou, Harry Zhang, Xiangyu Zeng, Yuxuan Liu, Yuxin Lu, Kaijie Chen, Andrew Chen, Pony Ma.* [[Paper](https://arxiv.org/abs/2610.22276)] [[Code](https://github.com/Fr0zenCrane/MJev-Spatial)]
+
+  `Backbone`: Qwen3.5-4B with pretrained query/key candidate scoring.
+
 - **VideoJev: System One Model for Video Understanding and Interaction**. arXiv:2610.18615.
 
   *Yuhan Zhu, Xiangyu Zeng, Qingyi Si, Chenxu Yang, Yifei Li, Luozheng Qin, Junhao Zhou, Dingyu Yao, Jun Zhang, Chuanyu Qin, Zhiqiu Zhang, Yuandong Yang, Yuqi Xu, Tianyu Zhang, Hongcheng Guo, Jiaqi Wang, Nan Duan, Limin Wang.* [[Paper](https://arxiv.org/abs/2610.18615)] [[Code](https://github.com/MCG-NJU/VideoJev)]
@@ -43,6 +49,14 @@ Research Trends in `LLM-guided Multimodal` Learning.
   *Xinhao Li, Yuhan Zhu, Xiangyu Zeng, Yuhao Dong, Haoning Wu, Zhiqiu Zhang, Yuandong Yang, Changlian Ma, Qingyu Zhang, Yansong Shi, Xinyu Chen, Haoran Chen, Zizheng Huang, Jun Zhang, Kun Ouyang, Lin Sui, Ziang Yan, Yicheng Xu, Chenting Wang, Yinan He, Hongjie Zhang, Yi Wang, Yu Qiao, Yali Wang, Ziwei Liu, Kai Chen, Limin Wang.* [[Paper](https://arxiv.org/abs/2607.14935)] [[Code](https://github.com/MCG-NJU/VideoChat3)]
 
   `Backbone`: 4B video MLLM with I3D-ViT spatiotemporal compression.
+
+## 2026 June
+
+- **JoyAI-VL-Interaction: Real-Time Vision-Language Interaction Intelligence**. arXiv:2606.14777.
+
+  *Dingyu Yao, Junhao Zhou, Chenxu Yang, Chuanyu Qin, Xiangyu Zeng, Yifei Li, Haowen Hou, Zheming Liang, Congcong Wang, Kaiwen Tuo, Jun Zhang, Yuhan Zhu, Yuhang Cao, Shenglong Ye, Shuai Xie, Shuhuan Gu, Haoyang Huang, Qingyi Si, Nan Duan, Jiaqi Wang.* [[Paper](https://arxiv.org/abs/2606.14777)] [[Code](https://github.com/jd-opensource/JoyAI-VL-Interaction)]
+
+  `Backbone`: JoyAI-VL-8B; vision-first interaction with pluggable speech I/O.
 
 ## 2026 January
 
