@@ -16,6 +16,64 @@ Research Trends in `LLM-guided Multimodal` Learning.
 - Examples of `Evaluation on Multimodal LLM`:
 	- MultiInstruct, POPE, AttackVLM, ...
 
+## 2026 October
+
+- **MJev-Spatial: System One Spatial Intelligence via Native Attention Matching**. arXiv:2610.22276.
+
+  *Luozheng Qin, Yuhan Zhu, Changhai Zhou, Qian Qiao, Jun Gao, Yuhua Zhou, Harry Zhang, Xiangyu Zeng, Yuxuan Liu, Yuxin Lu, Kaijie Chen, Andrew Chen, Pony Ma.* [[Paper](https://arxiv.org/abs/2610.22276)] [[Code](https://github.com/Fr0zenCrane/MJev-Spatial)]
+
+  `Backbone`: Qwen3.5-4B with pretrained query/key candidate scoring.
+
+- **VideoJev: System One Model for Video Understanding and Interaction**. arXiv:2610.18615.
+
+  *Yuhan Zhu, Xiangyu Zeng, Qingyi Si, Chenxu Yang, Yifei Li, Luozheng Qin, Junhao Zhou, Dingyu Yao, Jun Zhang, Chuanyu Qin, Zhiqiu Zhang, Yuandong Yang, Yuqi Xu, Tianyu Zhang, Hongcheng Guo, Jiaqi Wang, Nan Duan, Limin Wang.* [[Paper](https://arxiv.org/abs/2610.18615)] [[Code](https://github.com/MCG-NJU/VideoJev)]
+
+  `Backbone`: Qwen3.5-4B and Qwen3.6-35B-A3B, adapted for candidate scoring.
+
+- **OneStreamer: Unifying Perception, Memory, and Proactive Response in Streaming Video Interaction**. arXiv:2610.01762.
+
+  *Xiangyu Zeng, Yuandong Yang, Zhiqiu Zhang, Yuhan Zhu, Xinhao Li, Qingyi Si, Dingyu Yao, Changlian Ma, Haoran Chen, Xinyu Chen, Yansong Shi, Junhao Zhou, Yifei Li, Jun Zhang, Chuanyu Qin, Chenxu Yang, Xinlei Yu, Kun Ouyang, Yuchen Shao, Qianshan Wei, Changhai Zhou, Jun Gao, Jiaqi Wang, Limin Wang.* [[Paper](https://arxiv.org/abs/2610.01762)] [[Code](https://github.com/MCG-NJU/OneStreamer)]
+
+  `Backbone`: Qwen3-VL-4B.
+
+## 2026 July
+
+- **TimeLens2: Generalist Video Temporal Grounding with Multimodal LLMs**. arXiv:2607.17423.
+
+  *Yuhan Zhu, Changlian Ma, Xiangyu Zeng, Xinhao Li, Zhiqiu Zhang, Songze Li, Jun Zhang, Tianxiang Jiang, Yuandong Yang, Ziang Yan, Zikang Wang, Xinyu Chen, Haoran Chen, Shaowei Zhang, Limin Wang.* [[Paper](https://arxiv.org/abs/2607.17423)] [[Code](https://github.com/MCG-NJU/TimeLens2)]
+
+  `Backbone`: Qwen3-VL (2B, 4B, and 8B).
+
+- **VideoChat3: Fully Open Video MLLM for Efficient and Generalist Video Understanding**. arXiv:2607.14935.
+
+  *Xinhao Li, Yuhan Zhu, Xiangyu Zeng, Yuhao Dong, Haoning Wu, Zhiqiu Zhang, Yuandong Yang, Changlian Ma, Qingyu Zhang, Yansong Shi, Xinyu Chen, Haoran Chen, Zizheng Huang, Jun Zhang, Kun Ouyang, Lin Sui, Ziang Yan, Yicheng Xu, Chenting Wang, Yinan He, Hongjie Zhang, Yi Wang, Yu Qiao, Yali Wang, Ziwei Liu, Kai Chen, Limin Wang.* [[Paper](https://arxiv.org/abs/2607.14935)] [[Code](https://github.com/MCG-NJU/VideoChat3)]
+
+  `Backbone`: 4B video MLLM with I3D-ViT spatiotemporal compression.
+
+## 2026 June
+
+- **JoyAI-VL-Interaction: Real-Time Vision-Language Interaction Intelligence**. arXiv:2606.14777.
+
+  *Dingyu Yao, Junhao Zhou, Chenxu Yang, Chuanyu Qin, Xiangyu Zeng, Yifei Li, Haowen Hou, Zheming Liang, Congcong Wang, Kaiwen Tuo, Jun Zhang, Yuhan Zhu, Yuhang Cao, Shenglong Ye, Shuai Xie, Shuhuan Gu, Haoyang Huang, Qingyi Si, Nan Duan, Jiaqi Wang.* [[Paper](https://arxiv.org/abs/2606.14777)] [[Code](https://github.com/jd-opensource/JoyAI-VL-Interaction)]
+
+  `Backbone`: JoyAI-VL-8B; vision-first interaction with pluggable speech I/O.
+
+## 2026 January
+
+- **Video-o3: Native Interleaved Clue Seeking for Long Video Multi-Hop Reasoning**. arXiv:2601.23224. ICML 2026.
+
+  *Xiangyu Zeng, Zhiqiu Zhang, Yuhan Zhu, Xinhao Li, Zikang Wang, Changlian Ma, Qingyu Zhang, Zizheng Huang, Kun Ouyang, Tianxiang Jiang, Ziang Yan, Yi Wang, Hongjie Zhang, Yali Wang, Limin Wang.* [[Paper](https://arxiv.org/abs/2601.23224)] [[Code](https://github.com/MCG-NJU/Video-o3)]
+
+  `Backbone`: Qwen2.5-VL.
+
+## 2025 September
+
+- **FreeRet: MLLMs as Training-Free Retrievers**. arXiv:2509.24621. ICML 2026.
+
+  *Yuhan Zhu, Xiangyu Zeng, Chenting Wang, Xinhao Li, Chunxu Liu, Yicheng Xu, Ziang Yan, Yi Wang, Limin Wang.* [[Paper](https://arxiv.org/abs/2509.24621)] [[Code](https://github.com/MCG-NJU/FreeRet)]
+
+  `Backbone`: Off-the-shelf Qwen2.5-VL.
+
 ## 2023 August
 
 - **BLIVA: A Simple Multimodal LLM for Better Handling of Text-Rich Visual Questions**. arXiv:2308.09936.
